@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "version": "0.1.0-rc.8",
+  "prerelease": true,
+  "repository": "newbility/Watchmen_The_End_is_Nigh_Chinese",
+  "archive": "downloads/Watchmen_zh-CN_0.1.0-rc.8.zip",
+  "archive_sha256": "f583b90a5fb321fc683295311190bb1e3f3bb2bc18104705954f6ae5548de6c7",
+  "archive_size": 2943780,
+  "translation_license": "CC-BY-NC-SA-4.0",
+  "font_license": "OFL-1.1",
+  "game_appid": "21010",
+  "part": 1,
+  "test_candidate": true,
+  "channel": "rc-test-build",
+  "github_release_created": false,
+  "download_url": "https://github.com/newbility/Watchmen_The_End_is_Nigh_Chinese/raw/refs/heads/main/downloads/Watchmen_zh-CN_0.1.0-rc.8.zip"
+}

@@ -6,12 +6,11 @@
 
 ## 下载
 
-- [下载RC8独立汉化包](https://github.com/newbility/Watchmen_The_End_is_Nigh_Chinese/releases/download/v0.1.0-rc.8/Watchmen_zh-CN_0.1.0-rc.8.zip)
-- [查看所有测试版本](https://github.com/newbility/Watchmen_The_End_is_Nigh_Chinese/releases)
-- [仓库备用下载](https://github.com/newbility/Watchmen_The_End_is_Nigh_Chinese/raw/refs/heads/main/downloads/Watchmen_zh-CN_0.1.0-rc.8.zip)（若Release附件尚在生成，请使用此项）
+- [下载RC8独立汉化包](https://github.com/newbility/Watchmen_The_End_is_Nigh_Chinese/raw/refs/heads/main/downloads/Watchmen_zh-CN_0.1.0-rc.8.zip)
+- [查看下载目录](downloads/)
 - [SHA-256校验清单](SHA256SUMS.txt)
 
-请下载 `Watchmen_zh-CN_0.1.0-rc.8.zip`。GitHub自动生成的“Source code”压缩包是仓库快照。
+请下载 `Watchmen_zh-CN_0.1.0-rc.8.zip` 并完整解压，再运行包内入口。
 
 ## 支持范围
 
